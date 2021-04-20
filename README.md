@@ -1,3 +1,4 @@
 # Meme_Lounge
 
-SoftUni JS Application Exam example
+SoftUni JS Applications:
+- Exam example
